@@ -1,0 +1,7 @@
+7449f5656215d415d95d6a97826295f7  usr/lib/nginx/modules/ngx_http_geoip_module-debug.so
+94a100978400d2150396396769d74fb3  usr/lib/nginx/modules/ngx_http_geoip_module.so
+bd24dc7b2105f1784b48644560555d2e  usr/lib/nginx/modules/ngx_stream_geoip_module-debug.so
+4604110b541e121bda5a97eac3c7e17f  usr/lib/nginx/modules/ngx_stream_geoip_module.so
+78811dafa47aa5c094461bcc39b15d17  usr/share/doc/nginx-module-geoip/changelog.Debian.gz
+b6314fab4a65da6ae6294934ad124853  usr/share/doc/nginx-module-geoip/changelog.gz
+928c8b677713b532d386034283a8ff17  usr/share/doc/nginx-module-geoip/copyright
